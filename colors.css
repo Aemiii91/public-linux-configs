@@ -1,0 +1,25 @@
+:root {
+    /* # normal */
+    --color0: #15161e; /* black */
+    --color1: #de5971; /* red */
+    --color2: #1abc9c; /* green */
+    --color3: #e0af68; /* yellow */
+    --color4: #3d59a1; /* blue */
+    --color5: #9d7cd8; /* purple */
+    --color6: #25aac2; /* cyan */
+    --color7: #a9b1d6; /*  */
+
+    /* # bright */
+    --color8: #414868; /* brblack */
+    --color9: #f7768e; /* brred */
+    --color10: #73daca; /* brgreen */
+    --color11: #9ece6a; /* bryellow */
+    --color12: #7aa2f7; /* brblue */
+    --color13: #bb9af7; /* brpurple */
+    --color14: #89ddff; /* brcyan */
+    --color15: #c0caf5; /* brwhite */
+
+    /* # extended colors */
+    --color16: #ff9e64;
+    --color17: #db4b4b;
+}
